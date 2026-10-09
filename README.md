@@ -42,3 +42,10 @@
 22. [جشن بی‌چراغ](chapters/22-jashn-e-bi-cheragh.md)
 23. [کفش‌های کنار در](chapters/23-kafshhaye-kenar-e-dar.md)
 24. [زنی در زیر خانه](chapters/24-zani-dar-zir-e-khane.md)
+
+## بخش چهارم
+
+25. [مادرم چه کرده بود](chapters/25-madaram-che-karde-bud.md)
+26. [پیشنهاد نام‌بان](chapters/26-pishnahad-e-namban.md)
+27. [آخرین سفر بهرام](chapters/27-akharin-safar-e-bahram.md)
+28. [دروغی که به کار آمد](chapters/28-dorughi-ke-be-kar-amad.md)
