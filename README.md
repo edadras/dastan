@@ -24,3 +24,7 @@
 9. [پلی برای یک نفر](chapters/09-poli-baraye-yek-nafar.md)
 10. [شهر پشت باران](chapters/10-shahr-e-posht-e-baran.md)
 11. [خواهر بزرگ‌تر](chapters/11-khahar-e-bozorgtar.md)
+
+12. [درس نخست نام‌بافی](chapters/12-dars-e-nakhost.md)
+13. [دفتر زمستان](chapters/13-daftar-e-zemestan.md)
+14. [نامه‌ای برای مادر](chapters/14-namei-baraye-madar.md)
