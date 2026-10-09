@@ -49,3 +49,6 @@
 26. [پیشنهاد نام‌بان](chapters/26-pishnahad-e-namban.md)
 27. [آخرین سفر بهرام](chapters/27-akharin-safar-e-bahram.md)
 28. [دروغی که به کار آمد](chapters/28-dorughi-ke-be-kar-amad.md)
+29. [دختر بی‌نام](chapters/29-dokhtar-e-binam.md)
+30. [برادر کوچک](chapters/30-baradar-e-kuchak.md)
+31. [ملکه پشت پرده](chapters/31-malake-posht-e-parde.md)
