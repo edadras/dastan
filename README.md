@@ -38,3 +38,7 @@
 18. [دکمهٔ چهارچشم](chapters/18-dokme-ye-chaharcheshm.md)
 19. [کسی که در را باز کرد](chapters/19-kasi-ke-dar-ra-baz-kard.md)
 20. [خانه‌ای که سوخته بود](chapters/20-khanei-ke-sukhte-bud.md)
+21. [قصهٔ دیگری از زمستان](chapters/21-ghessei-digar-az-zemestan.md)
+22. [جشن بی‌چراغ](chapters/22-jashn-e-bi-cheragh.md)
+23. [کفش‌های کنار در](chapters/23-kafshhaye-kenar-e-dar.md)
+24. [زنی در زیر خانه](chapters/24-zani-dar-zir-e-khane.md)
