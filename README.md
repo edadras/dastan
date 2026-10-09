@@ -1,8 +1,10 @@
 # وارثِ نامِ دزدیده‌شده
 
-رمانی خیال‌انگیز دربارهٔ دختر نوجوانی در مهمان‌خانهٔ مردگان؛ دربارهٔ دوستی، خانواده، و بهایی که برای نگه‌داشتن عزیزانمان می‌پردازیم.
+رمانی خیال‌انگیز دربارهٔ دختری در مهمان‌خانهٔ مردگان، نام‌هایی که به امانت گرفته شده‌اند، و خانواده‌هایی که باید راهِ ماندن یا رفتن را خودشان انتخاب کنند.
 
-**وضعیت نگارش:** در حال نگارش. فصل‌ها به‌ترتیب در همین شاخه افزوده می‌شوند؛ این نسخه هنوز رمان کامل نیست.
+**نسخهٔ کامل: ۴۰ فصل در پنج بخش، حدود ۶۲ هزار واژه.**
+
+[نسخهٔ یکپارچهٔ رمان](BOOK.md) · [فصل اول](chapters/01-mehmani-ke-kafsh-nadasht.md)
 
 این شاخه به رمان تازه اختصاص دارد. داستان پیشین و بازنویسی‌های آن در شاخه‌های قبلی مخزن باقی مانده‌اند.
 
@@ -10,27 +12,23 @@
 
 1. [مهمانی که کفش نداشت](chapters/01-mehmani-ke-kafsh-nadasht.md)
 2. [اتاق شمارهٔ هفت](chapters/02-otagh-e-haft.md)
-
-3. [مأمور جوان](chapters/03-mamur-e-javan.md)
+3. [مأمورِ جوان](chapters/03-mamur-e-javan.md)
 4. [آنچه منیر نگفت](chapters/04-anche-monir-nagoft.md)
 5. [شبی که مرداب بالا آمد](chapters/05-shabi-ke-mordab-bala-amad.md)
 6. [سه نفر و یک قایق](chapters/06-se-nafar-o-yek-ghayegh.md)
-
-7. [بازار چیزهای پس‌گرفته](chapters/07-bazar-e-chizha.md)
+7. [بازارِ چیزهای پس‌گرفته](chapters/07-bazar-e-chizha.md)
 8. [قیمتی که پول نبود](chapters/08-gheimati-ke-pul-nabud.md)
 
 ## بخش دوم
 
 9. [پلی برای یک نفر](chapters/09-poli-baraye-yek-nafar.md)
-10. [شهر پشت باران](chapters/10-shahr-e-posht-e-baran.md)
-11. [خواهر بزرگ‌تر](chapters/11-khahar-e-bozorgtar.md)
-
-12. [درس نخست نام‌بافی](chapters/12-dars-e-nakhost.md)
-13. [دفتر زمستان](chapters/13-daftar-e-zemestan.md)
+10. [شهرِ پشتِ باران](chapters/10-shahr-e-posht-e-baran.md)
+11. [خواهرِ بزرگ‌تر](chapters/11-khahar-e-bozorgtar.md)
+12. [درسِ نخستِ نام‌بافی](chapters/12-dars-e-nakhost.md)
+13. [دفترِ زمستان](chapters/13-daftar-e-zemestan.md)
 14. [نامه‌ای برای مادر](chapters/14-namei-baraye-madar.md)
-
-15. [مهمان خاندان ابروند](chapters/15-mehman-e-khandan.md)
-16. [اسم روی دیوار](chapters/16-esm-e-ruye-divar.md)
+15. [مهمانِ خاندان ابروند](chapters/15-mehman-e-khandan.md)
+16. [اسمِ روی دیوار](chapters/16-esm-e-ruye-divar.md)
 
 ## بخش سوم
 
@@ -60,3 +58,7 @@
 34. [پسری به نام سام](chapters/34-pesari-be-nam-e-sam.md)
 35. [آنچه نگه نمی‌داریم](chapters/35-anche-negah-nemidarim.md)
 36. [سهم زندگان](chapters/36-sahm-e-zendegan.md)
+37. [آخرین مهمان](chapters/37-akharin-mehman.md)
+38. [صبحی بدون معجزه](chapters/38-sobhi-bedun-e-mojeze.md)
+39. [اتاقی برای زنده‌ها](chapters/39-otaghi-baraye-zendeha.md)
+40. [چراغ آخر](chapters/40-cheragh-e-akhar.md)
