@@ -52,3 +52,11 @@
 29. [دختر بی‌نام](chapters/29-dokhtar-e-binam.md)
 30. [برادر کوچک](chapters/30-baradar-e-kuchak.md)
 31. [ملکه پشت پرده](chapters/31-malake-posht-e-parde.md)
+32. [شب نام‌های تازه](chapters/32-shab-e-namhaye-taze.md)
+
+## بخش پنجم
+
+33. [چهارده پله تا آب](chapters/33-chahardah-pelle-ta-ab.md)
+34. [پسری به نام سام](chapters/34-pesari-be-nam-e-sam.md)
+35. [آنچه نگه نمی‌داریم](chapters/35-anche-negah-nemidarim.md)
+36. [سهم زندگان](chapters/36-sahm-e-zendegan.md)
