@@ -10,3 +10,8 @@
 
 1. [مهمانی که کفش نداشت](chapters/01-mehmani-ke-kafsh-nadasht.md)
 2. [اتاق شمارهٔ هفت](chapters/02-otagh-e-haft.md)
+
+3. [مأمور جوان](chapters/03-mamur-e-javan.md)
+4. [آنچه منیر نگفت](chapters/04-anche-monir-nagoft.md)
+5. [شبی که مرداب بالا آمد](chapters/05-shabi-ke-mordab-bala-amad.md)
+6. [سه نفر و یک قایق](chapters/06-se-nafar-o-yek-ghayegh.md)
