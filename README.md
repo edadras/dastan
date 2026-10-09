@@ -31,3 +31,10 @@
 
 15. [مهمان خاندان ابروند](chapters/15-mehman-e-khandan.md)
 16. [اسم روی دیوار](chapters/16-esm-e-ruye-divar.md)
+
+## بخش سوم
+
+17. [کسانی که ثبت نشده‌اند](chapters/17-kasani-ke-sabt-nashodeand.md)
+18. [دکمهٔ چهارچشم](chapters/18-dokme-ye-chaharcheshm.md)
+19. [کسی که در را باز کرد](chapters/19-kasi-ke-dar-ra-baz-kard.md)
+20. [خانه‌ای که سوخته بود](chapters/20-khanei-ke-sukhte-bud.md)
