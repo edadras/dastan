@@ -15,3 +15,6 @@
 4. [آنچه منیر نگفت](chapters/04-anche-monir-nagoft.md)
 5. [شبی که مرداب بالا آمد](chapters/05-shabi-ke-mordab-bala-amad.md)
 6. [سه نفر و یک قایق](chapters/06-se-nafar-o-yek-ghayegh.md)
+
+7. [بازار چیزهای پس‌گرفته](chapters/07-bazar-e-chizha.md)
+8. [قیمتی که پول نبود](chapters/08-gheimati-ke-pul-nabud.md)
