@@ -28,3 +28,6 @@
 12. [درس نخست نام‌بافی](chapters/12-dars-e-nakhost.md)
 13. [دفتر زمستان](chapters/13-daftar-e-zemestan.md)
 14. [نامه‌ای برای مادر](chapters/14-namei-baraye-madar.md)
+
+15. [مهمان خاندان ابروند](chapters/15-mehman-e-khandan.md)
+16. [اسم روی دیوار](chapters/16-esm-e-ruye-divar.md)
