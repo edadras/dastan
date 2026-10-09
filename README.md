@@ -18,3 +18,9 @@
 
 7. [بازار چیزهای پس‌گرفته](chapters/07-bazar-e-chizha.md)
 8. [قیمتی که پول نبود](chapters/08-gheimati-ke-pul-nabud.md)
+
+## بخش دوم
+
+9. [پلی برای یک نفر](chapters/09-poli-baraye-yek-nafar.md)
+10. [شهر پشت باران](chapters/10-shahr-e-posht-e-baran.md)
+11. [خواهر بزرگ‌تر](chapters/11-khahar-e-bozorgtar.md)
